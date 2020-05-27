@@ -3,3 +3,4 @@ touchscreen
 
 
 power button
+biometric-scanner
