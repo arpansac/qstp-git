@@ -1,3 +1,4 @@
 playlists
 artists
 genres
+favorites
