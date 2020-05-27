@@ -2,3 +2,5 @@ playlists
 artists
 genres
 media-video
+favorites
+
