@@ -1,2 +1,5 @@
 dialer
 touchscreen
+
+
+power button
