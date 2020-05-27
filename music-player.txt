@@ -4,3 +4,4 @@ genres
 media-video
 favorites
 
+another-feature
